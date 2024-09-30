@@ -1,0 +1,24 @@
+body {
+    background-color: aqua;
+  }
+  
+  h1 {
+    color: white;
+    font color: red;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  b {
+    color: red;
+    font-size: 30px; 
+    text-align: center;
+  }
+
+  
+  
